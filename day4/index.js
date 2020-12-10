@@ -1,6 +1,3 @@
-function validate(field) {
-    
-}
 
 function getValidPassports () {    
     const input = require("./input")
